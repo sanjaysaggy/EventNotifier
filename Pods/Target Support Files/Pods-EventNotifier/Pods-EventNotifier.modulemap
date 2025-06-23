@@ -1,0 +1,6 @@
+framework module Pods_EventNotifier {
+  umbrella header "Pods-EventNotifier-umbrella.h"
+
+  export *
+  module * { export * }
+}
